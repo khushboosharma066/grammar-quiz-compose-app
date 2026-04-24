@@ -86,7 +86,7 @@ app/src/main/java/com/example/project_quiz_app/
 ## Screenshots
 
 screenshot_app1.jpeg
-
+screenshot_app2.jpeg
 
 - Home/Quiz question screen
 - Option feedback state (correct/wrong highlight)
