@@ -85,18 +85,11 @@ app/src/main/java/com/example/project_quiz_app/
 
 ## Screenshots
 
-> Add screenshots before final submission.
+
 
 - Home/Quiz question screen
 - Option feedback state (correct/wrong highlight)
 - Final result dialog
 
-## Learning Highlights
 
-- Implemented clean MVVM in a small real-world app
-- Used `StateFlow` for predictable state updates
-- Understood Compose recomposition from state changes
-- Added delayed answer feedback using coroutines in ViewModel
-- Built polished Material 3 UI while keeping code simple
-- Practiced maintaining architecture while improving UX
 
